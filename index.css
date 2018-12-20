@@ -404,16 +404,16 @@ text-shadow: 0px 1px 1px rgb(56, 3, 13);
   .skill{
     position:absolute;
     background-color: rgb(24, 42, 43);
-    height:40%;
+    height:50%;
     bottom:0%;
     right:0%;
     left: 0%;
-    top:155%;
+    top:190%;
   }
 
 .pic-box{
   position:absolute;
-  height:175%;
+  height:165%;
   bottom:0%;
   right:20%;
   left: 0%;
